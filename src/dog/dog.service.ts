@@ -7,6 +7,6 @@ export class DogService {
   }
 
   public introduce(): string {
-    return 'My name is Rex';
+    return 'My name is Rexboy';
   }
 }
