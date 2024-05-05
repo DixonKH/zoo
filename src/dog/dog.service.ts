@@ -7,13 +7,9 @@ export class DogService {
   }
 
   public introduce(): string {
-<<<<<<< HEAD
     return 'My name is Rex!';
   }
   public modifyDetail(): string {
     return 'Succsessfully Modified!';
-=======
-    return 'My name is Rexboy';
->>>>>>> origin/develop
   }
 }
